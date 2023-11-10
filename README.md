@@ -2,7 +2,7 @@
 In this repository, we will match paired images using R2D2 algorithm.
 
 This is done in three steps:
-1. Extracting key points using R2D2
+1. Extracting keypoints using R2D2
 2. match images with OpenCV
 3. Display the image
 
